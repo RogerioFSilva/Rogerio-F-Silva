@@ -21,7 +21,7 @@
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align='center'>
-  <img align="center" src="https://user-images.githubusercontent.com/106206470/173970504-e8ac8275-493f-4814-bae1-e118969155c9.jpg"/>
+  <img align="center" src="https://skills.thijs.gg/icons?i=js,html,css, nodejs, react, ts, git, figma.jpg"/>
 
 <br>
 
