@@ -11,7 +11,7 @@
 
 - 🌱 Estou no momento aprendendo HTML5, CSS, JavaScrit, Algoritimos, React Js, Node Js...
 
-- 🌱 Minha linguagem de programação favorita no momento e o React Js.
+- 🌱 Minha linguagem de programação favorita no momento e  o React Js.
 
 - 📫 E-mail: **rogrio.fernandesdasilva@gmail.com**
 
