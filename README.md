@@ -15,25 +15,7 @@
 
 - 📫 E-mail: **rogrio.fernandesdasilva@gmail.com**
 
-- Formação: Técnico de Segurança do Trabalho. 
-
-- Experiências Profissionais: 
-Técnico de Segurança do Trabalho Pleno, com mais de 15 anos no mercado de trabalho com experiência nas áreas: 
-Preparação de documentação para auditorias internas, externas (ISO 9001);
-Gestão corporativa seguindo as normas (ISO 9001);
-Lançar dados no sistema RM TOTVS com interface com o e-social;
-Acompanhando todos ASO’s dos funcionários acompanhando /mantendo todos atualizados;
-Manter documentação de todo o SESMT organizada;
-Ministrar DDS - Diário Diálogo de Segurança;
-Ministrar os treinamentos NR-35, NR-23, NR-11, NR-18 e outros pertinentes ao setor da Segurança do Trabalho;
-Desenvolver e cumprir PGR - Programa de Gerenciamento de Risco, PPRA Programa de Prevenção aos Riscos Ambientais, PCMSO Progama de Controle Médico e Saúde Ocuapcional, LTCAT Laudo Técnico das Condições do Ambiente do Trabalho;
-Ordem de Serviço;
-Integração com funcionários novos;
-Organizar e manter estoque de EPI’s Equipamentos de Proteção Individual/ EPC’s Equipamentos de Proteção Coletiva;
-Cumprir cronograma de inspeções de Segurança do Trabalho em todos os locais da obra de construção civil; planta industrial;
-Investigação de acidentes do trabalho com a metodologia árvore de causa, causa/ efeito e outros;
-Simulados de evacuação de área, cumprindo Plano de Atendimento Emergência;
-Acompanhar atividades críticas como: Iça mentos críticos, atividades com fonte de energia, montagem de pré moldados, lançamento de concreto com caminhão bomba lança, verificação de documentos de empresas terceiras verificando interface de contrato de trabalho, questões trabalhistas com ações de ex funcionários, montagem de torre, lançamento de cabos, travessias sob / sobre LT’s e LD’s energizadas, Espaço confinado, mergulhos, produtos químicos e demais atribuições do cargo. 
+- Sou formado em Segurança do Trabalho há mais de quinze anos e atualmente estou no processo de transição de carreira para o setor de tecnologia com os estudos iniciados para me tornar um Desenvolvedor Web Full Stack. Inicialmente tenho a pretensão de atuar no front end e seguir estudando para me tornar full stack ao longo da jornada.
 
 - ⚡ Meus Hobbies: Marcenaria artesanal, Ler e-books sobre tecnologia, Navegação com barcos em rios, Som automotivo**
 
