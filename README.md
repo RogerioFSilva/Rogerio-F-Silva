@@ -15,7 +15,7 @@
 
 - 📫 E-mail: **rogrio.fernandesdasilva@gmail.com**
 
-- Sou formado em Segurança do Trabalho há mais de quinze anos e atualmente estou no processo de transição de carreira para o setor de tecnologia com os estudos iniciados para me tornar um Desenvolvedor Web Full Stack. Inicialmente tenho a pretensão de atuar no front end e seguir estudando para me tornar full stack ao longo da jornada.
+- Sou formado em Segurança do Trabalho há mais de quinze anos e atualmente estou em processo de transição de carreira para o setor de tecnologia com os estudos iniciados para me tornar um Desenvolvedor Web Full Stack. Inicialmente tenho a pretensão de atuar no front end e seguir estudando para me tornar full stack ao longo da jornada.
 
 - ⚡ Meus Hobbies: Marcenaria artesanal, Ler e-books sobre tecnologia, Navegação com barcos em rios, Som automotivo**
 
@@ -26,7 +26,7 @@
 <br>
 
 
-© 2022 GitHub, Inc.
+© 2023 GitHub, Inc.
 Terms
 Privacy
 Security
