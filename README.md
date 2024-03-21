@@ -7,9 +7,9 @@
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
 
-- 🌱 Eu sou estudante da 16ª Edição do Programa Starter Full Stack Web Developer na GROWDEV.
+- 🌱 Eu sou estudante da 17ª Edição do Programa Starter Full Stack Web Developer na GROWDEV.
 
-- 🌱 Estou no momento aprendendo HTML5, CSS, JavaScrit, Algoritimos, React Js, Node Js...
+- 🌱 Estou no momento aprendendo HTML5, CSS, JavaScrit, Algoritimos, React Js, Node Js, Banco de dados SQL, Bootstrap, Phyton.
 
 - 🌱 Minha linguagem de programação favorita no momento e  o React Js.
 
